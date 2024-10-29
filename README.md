@@ -7,7 +7,7 @@ This project implements a SQL database for Blinkit grocery store, designed to ma
 This project focuses on analyzing the sales data of Blinkit, a reputed online grocery store, using SQL. By leveraging data analysis, Blinkit aims to track sales trends, analyze customer behavior, and identify areas for improvement. The analysis will provide insights that can help enhance operations and increase customer satisfaction.
 
 # Dataset Description
-The dataset consists of a table named Grocery Sales with the following 12 columns:
+The dataset consists of a table named Grocery Sales with the following 12 columns
 
 Item_Identifier: A unique ID for each product.
 Item_Weight: The weight of the product.
