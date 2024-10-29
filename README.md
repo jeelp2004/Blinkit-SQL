@@ -9,18 +9,18 @@ This project focuses on analyzing the sales data of Blinkit, a reputed online gr
 # Dataset Description
 The dataset consists of a table named Grocery Sales with the following 12 columns:
 
-1.Item_Identifier: A unique ID for each product.
-2.Item_Weight: The weight of the product.
-3.Item_Fat_Content: Indicates whether the product is low fat or not.
-4.Item_Visibility: Percentage of the total display area in the store allocated to the product.
-5.Item_Type: The category or type of product.
-6.Item_MRP: The maximum retail price of the product.
-7.Outlet_Identifier: A unique ID for each store.
-8.Outlet_Establishment_Year: The year the store was established.
-9.Outlet_Size: The size of the store.
-10.Outlet_Location_Type: The type of city or region of the store.
-11.Outlet_Type: Indicates whether the store is a grocery store or supermarket.
-12.Item_Outlet_Sales: Sales of the product in the store 
+Item_Identifier: A unique ID for each product.
+Item_Weight: The weight of the product.
+Item_Fat_Content: Indicates whether the product is low fat or not.
+Item_Visibility: Percentage of the total display area in the store allocated to the product.
+Item_Type: The category or type of product.
+Item_MRP: The maximum retail price of the product.
+Outlet_Identifier: A unique ID for each store.
+Outlet_Establishment_Year: The year the store was established.
+Outlet_Size: The size of the store.
+Outlet_Location_Type: The type of city or region of the store.
+Outlet_Type: Indicates whether the store is a grocery store or supermarket.
+Item_Outlet_Sales: Sales of the product in the store 
 
 # Insights and Results
 # Key Findings
